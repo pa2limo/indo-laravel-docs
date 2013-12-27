@@ -1,10 +1,10 @@
 # Artisan CLI
 
-- [Introduction](#introduction)
-- [Usage](#usage)
+- [Intro](#intro)
+- [Cara penggunaan](#cara penggunaan)
 
 <a name="introduction"></a>
-## Introduction
+## Intro
 
 Artisan adalah sebuah command-line interface yang sudah termasuk di dalam setiap source code Laravel. Didalamnya terdapat sejumlah perintah yang berguna selama membuat aplikasi dengan menggunakan Laravel. Artisan CLI dijalankan dengan menggunakan Symfony Console component yang powerful.
 
@@ -16,8 +16,6 @@ Untuk melihat perintah-perintah yang tersedia, anda bisa menggunakan command `li
 **Menampilkan semua command yang tersedia**
 
 	php artisan list
-
-# Every command also includes a "help" screen which displays and describes the command's available arguments and options. To view a help screen, simply precede the name of the command with `help`:
 
 Setiap command juga memiliki fitur bantuan (help screen) yang menampilkan dan menjelaskan argumen dan opsi yang tersedia dalam menjalankan command tersebut. Untuk menampilkan help screen, tambahkan kata `help` dibelakang command yang anda inginkan. Sebagai contoh:
 
