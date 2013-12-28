@@ -54,7 +54,7 @@ Laravel terkadang membutuhkan sebuah permissions untuk dikonfigurasi: folder-fol
 <a name="paths"></a>
 ### Paths
 
-Beberapa direktori yang ada di framework ini bisa dikonfigurasi. Untuk mengubah lokasi dari direktori-direktori tersebut, cek file `bootstra/paths.php`.
+Beberapa direktori yang ada di framework ini bisa dikonfigurasi. Untuk mengubah lokasi dari direktori-direktori tersebut, cek file `bootstrap/paths.php`.
 
 <a name="pretty-urls"></a>
 ## Pretty URLs
